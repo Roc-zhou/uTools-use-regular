@@ -1,0 +1,11 @@
+{
+  "name": "utools-use-regular",
+  "version": "1.0.0",
+  "description": "工作常用正则记录",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "0x1cc4",
+  "license": "ISC"
+}
