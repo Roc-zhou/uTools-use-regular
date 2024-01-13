@@ -1,5 +1,10 @@
 module.exports = [
   {
+    title: '校验手机移动端浏览器',
+    reg: /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i,
+    exp: []
+  },
+  {
     title: '匹配中文字符',
     reg: /[\u4e00-\u9fa5]/gm,
     exp: ['你好', '我好', '大家好']
