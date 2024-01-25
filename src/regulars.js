@@ -1,5 +1,10 @@
 module.exports = [
   {
+    title: '校验微信',
+    reg: /MicroMessenger/i,
+    exp: []
+  },
+  {
     title: '校验手机移动端浏览器',
     reg: /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i,
     exp: []
