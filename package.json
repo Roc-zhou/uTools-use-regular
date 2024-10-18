@@ -1,6 +1,6 @@
 {
   "name": "utools-use-regular",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "工作常用正则记录",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
